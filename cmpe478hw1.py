@@ -13,7 +13,7 @@ def read_file(filename):
 #-----------------------------------------------------------
 
 #content holds the list of lines
-content = read_file("cmpe578hw1.txt")
+content = read_file("cmpe478hw1.txt")
 #create a dictionary named dictionary
 dictionary = {}
 #we will split the lines into words, 2nd value will be the key, 1st value will be the value in the dictionary
